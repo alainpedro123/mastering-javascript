@@ -1,0 +1,14 @@
+const pets = [
+	{
+		"name": "Meowsalot",
+		"species": "cat",
+		"food": "tuna"
+	},
+	{
+		"name": "Barky",
+		"species": "dog",
+		"food": "carrots"
+	}
+]
+
+pets[1].food;
